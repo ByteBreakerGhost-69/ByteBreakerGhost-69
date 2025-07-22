@@ -1,4 +1,4 @@
-##maulana yasyfa'u al azhiim yudho leksono-ByteBreakerGhost
+# maulana yasyfa'u al azhiim yudho leksono-ByteBreakerGhost
 
 ![ByteBreakerGhost](img/github-header-image.png)
 
