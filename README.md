@@ -1,7 +1,6 @@
 
 ![ByteBreakerGhost](img/github-header-image.png)
-# maulana yasyfa'u al azhiim yudho leksono-ByteBreakerGhost
-   #ByteBreakerGhost
+# maulana yasyfa'u al azhiim yudho leksono-ByteBreakerGhost -- ByteBreakerGhost
 # hey everyone👋
    
 my real name is maulana yasyfa'u al azhiim yudho leksono You can call me Yasyfa'u or Maulana! I’m a passionate beginner programmer diving into the vast universe of IT, with a current obsession for Python. Why Python? Its simplicity and power—from scripting to AI—make it the perfect launchpad for my coding journey. Right now, I’m grinding through fundamentals, solving problems on platforms like LeetCode, and building small projects (check my repos!). My mantra: *“Learn, build, repeat.”*  
