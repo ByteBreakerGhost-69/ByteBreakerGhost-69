@@ -1,10 +1,10 @@
 ![ByteBreakerGhost](img/github-header-image.png)
 
 # 💫 About Me:
-<br><br>hey everyone 👋<br><br>My name is **Maulana Yasyfa'u Al-Azhiim Yudho Leksono**,  <br>also known online as **ByteBreakerGhost-69**.<br><br>I'm from **Kediri, East Java, Indonesia**,  <br>and I'm currently on a journey to become a **beginner programmer**,  <br>with a strong interest in **Python programming**, **cybersecurity**, and **bug bounty**.<br><br>I believe that anyone can learn and grow from anywhere,  <br>as long as they have the will and motivation.  <br>I use this GitHub as an open space  <br>to learn consistently, document my personal projects,  <br>and share little things I discover throughout this learning process.<br><br>Even though I’m still a beginner, I believe that with consistent practice,  <br>community support, and constructive feedback,  <br>I can grow into a programmer and ethical hacker who brings value to others.<br><br>---<br><br>## 🔍 My Interests & Activities<br><br>👯 **I’m looking to collaborate on:**  <br>Beginner-friendly Python projects, simple scripts, text animations, or open-source tools.<br><br>🤝 **I’m looking for help with:**  <br>- Writing cleaner Python code  <br>- Understanding the bug bounty & cybersecurity workflow  <br>- Improving basic programming logic<br><br>🌱 **I’m currently learning:**  <br>- Python (basics, text animation, automation, and visualization)  <br>- Cybersecurity (Kali Linux, BlackArch, basic Bug Bounty)  <br>- Git & GitHub for version control and documentation<br><br>💬 **Ask me about:**  <br>- My personal coding experiments  <br>- Why I love expressing emotions through code  <br>- Learning programming from scratch as a self-learner<br><br>⚡ **Fun fact:**  <br>I once created a text animation project as a form of emotional expression...  <br>because sometimes, only code understands what the heart feels 😄❤️
+<br><br>hey everyone 👋<br><br>My name is **Maulana Yasyfa'u Al-Azhiim Yudho Leksono**,  <br>also known online as **ByteBreakerGhost-69**.<br><br>I'm from **Kediri, East Java, Indonesia**,  <br>and I'm currently on a journey to become a **beginner programmer**,  <br>with a strong interest in **Python programming**, **cybersecurity**, and **bug bounty**.<br><br>I believe that anyone can learn and grow from anywhere,  <br>as long as they have the will and motivation.  <br>I use this GitHub as an open space  <br>to learn consistently, document my personal projects,  <br>and share little things I discover throughout this learning process.<br><br>Even though I’m still a beginner, I believe that with consistent practice,  <br>community support, and constructive feedback,  <br>I can grow into a programmer and ethical hacker who brings value to others.<br><br><br> 🔍 My Interests & Activities<br><br>👯 I’m looking to collaborate on:  <br>Beginner-friendly Python projects, simple scripts, text animations, or open-source tools.<br><br>🤝 I’m looking for help with:<br>- Writing cleaner Python code  <br>- Understanding the bug bounty & cybersecurity workflow  <br>- Improving basic programming logic<br><br>🌱 I’m currently learning:<br>- Python (basics, text animation, automation, and visualization)  <br>- Cybersecurity (Kali Linux, BlackArch, basic Bug Bounty)  <br>- Git & GitHub for version control and documentation<br><br>💬 Ask me about:  <br>- My personal coding experiments  <br>- Why I love expressing emotions through code  <br>- Learning programming from scratch as a self-learner<br><br>⚡ Fun fact:<br>I once created a text animation project as a form of emotional expression...  <br>because sometimes, only code understands what the heart feels 😄❤️
 
 
-# 🌐 Socials:
+## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/bytebreaker07) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@bytebreakerghost) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yasyfinance.9@gmail.com) 
 
 # 💻 Tech Stack:
@@ -16,6 +16,9 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ByteBreakerGhost-69&theme=merko&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ByteBreakerGhost-69&icon=0&color=8)](https://visitcount.itsvg.in)
