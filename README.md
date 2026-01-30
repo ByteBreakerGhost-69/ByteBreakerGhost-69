@@ -4,7 +4,7 @@
 
 "Coding is not only about logic, but also a medium for emotional expression."
 
-I am maulana (widely known as **ByteBreakerGhost-69**), a self-taught programmer based in **Kediri, Indonesia**. I view my GitHub profile as a **digital journal**—a space to document my growth, experiments, and the stories behind the code.
+I am maulana yasyfa'u al azhiim (widely known as **ByteBreakerGhost-69**), a self-taught programmer based in **Kediri, Indonesia**. I view my GitHub profile as a **digital journal**—a space to document my growth, experiments, and the stories behind the code.
 
 ---
 
