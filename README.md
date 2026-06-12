@@ -30,100 +30,42 @@ My approach to cybersecurity is ethical and offensive-minded: thinking like an a
 
 **Open to** small creative collaborations, open-source contributions, mentorship for code structure, and supporting fellow beginners.
 
-> "Success doesn't belong to the smartest people, but to those who never give up."
-
 ---
 
 ### 🛠️ Tech Stack
 
-#### Languages
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Vyper](https://img.shields.io/badge/Vyper-4B0082?style=flat-square&logo=ethereum&logoColor=white)
+## 🛠️ Core Tech Stacks
 
-#### Blockchain & Web3
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-000000?style=flat-square&logo=shield&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-000000?style=flat-square&logo=hardhat&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16843?style=flat-square&logo=web3dotjs&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-#### Security & Tools
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+## 🌐 Frontend Development
 
-#### AI & Emerging
-![FlowiseAI](https://img.shields.io/badge/FlowiseAI-8B00FF?style=flat-square&logo=ai&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+## ⚙️ Backend & Blockchain
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-F8F9FA?style=for-the-badge&logo=hardhat&logoColor=black)
+
+## 🛡️ Security & Tools
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+## 🤖 AI & Emerging
+
+![Groq](https://img.shields.io/badge/Groq-FF6B6B?style=for-the-badge&logo=groq&logoColor=white)
+![FlowiseAI](https://img.shields.io/badge/FlowiseAI-5C3EE8?style=for-the-badge&logo=flowiseai&logoColor=white)
 ---
-
-### 🚀 Featured Projects
-
-**Summary:**
-<strong>KKRN-ERC-20 Token</strong>
-
-**ERC-20 compliant token with advanced features for Web3 integration.**
-
-A production-ready token template compatible with MetaMask and DEXes.
-
-| Stack          | Scale       | Performance      | Security          | Impact                  | Repository |
-|----------------|-------------|------------------|-------------------|-------------------------|------------|
-| Solidity, OpenZeppelin | ERC-20 Standard | Optimized gas    | Ownable + Burnable | Learning + DeFi ready  | [View Repo](https://github.com/ByteBreakerGhost-69/KKRN-ERC-20) |
-
-Features: Burnable, Mintable (owner), Ownable Access Control.
-
-**Summary:**
-<strong>Crowdfunding Smart Contract</strong>
-
-**Secure and transparent crowdfunding platform on Ethereum.**
-
-| Stack              | Scale              | Performance     | Security              | Impact                     | Repository |
-|--------------------|--------------------|-----------------|-----------------------|----------------------------|------------|
-| Solidity, ReentrancyGuard | Campaign-based  | Efficient ETH flows | Reentrancy Guard + Events | Web3 Portfolio Showcase   | [View Repo](https://github.com/ByteBreakerGhost-69/project-CrowdFunding) |
-
-Key functions: `createCampaign()`, `contribute()`, `closeCampaign()`, refund mechanisms.
-
-**Summary:**
-<strong>DAO Governance Contract</strong>
-
-**Upgradeable DAO following Compound-style architecture.**
-
-| Stack                          | Scale          | Performance     | Security           | Impact                          | Repository |
-|--------------------------------|----------------|-----------------|--------------------|---------------------------------|------------|
-| Solidity, OpenZeppelin Governor | Governance     | On-chain voting | Upgradeable + Timelock | Community governance template  | [View Repo](https://github.com/ByteBreakerGhost-69/DAO-project) |
-
-Features: Proposal creation, voting, ERC20Votes integration.
-
-**Summary:**
-<strong>FlowiseAI Chatbot</strong>
-
-**Visual LLM workflow chatbot using FlowiseAI.**
-
-| Stack              | Scale         | Performance   | Security     | Impact                    | Repository |
-|--------------------|---------------|---------------|--------------|---------------------------|------------|
-| FlowiseAI, Groq   | Conversational | Low latency  | Prompt Security | AI experimentation base  | [View Repo](https://github.com/ByteBreakerGhost-69/flowise-chatbot-ku) |
-
-Components: Chat models, memory buffers, custom prompt chains.
-
----
-
-### 💼 Experience
-
-**Self-Directed Blockchain Developer**  
-*Independent | 2025 — Present*
-
-- Designed and deployed multiple ERC-20 and governance smart contracts
-- Conducted security audits and implemented best practices using OpenZeppelin
-- Built educational and portfolio-grade Web3 applications
-- Explored ethical hacking tools and Python automation scripts
-
-**Skills**: `Solidity` `Smart Contracts` `Web3 Security` `DeFi` `Python`
-
----
-
-
 
 ### 🏅 Coding Profiles
 
