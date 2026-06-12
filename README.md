@@ -20,16 +20,16 @@
 </div>
 
 ---
-
 ## 🜁 About Me
 
-**ByteBreakerGhost-69** (Maulana Yasyfa'u Al Azhiim) is a passionate **Blockchain & Smart Contract Developer** with a strong focus on **Web3 Security** and **DeFi** protocols. Viewing GitHub as a digital journal for growth and experimentation, I embrace a beginner's mindset — unafraid to start from zero with daily learning and documentation.
+**ByteBreakerGhost-69 (Maulana Yasyafu' Al Azhiim)**
 
-My approach to cybersecurity is ethical and offensive-minded: thinking like an attacker to build stronger defenses. My mission is to develop digital and social security solutions that empower communities.
+- 🔐 Blockchain & Smart Contract Developer (Solidity, Rust, Vyper)
+- 🛡️ Web3 Security — ethical hacking mindset
+- 📚 Daily learner, building in public
+- 🤝 Open to collaborations & mentorship
 
-**Currently exploring** Python automation, ethical hacking with Kali Linux & BlackArch, Solidity/Rust/Vyper smart contracts with OpenZeppelin standards, and future technologies like AI/ML and Quantum Computing.
-
-**Open to** small creative collaborations, open-source contributions, mentorship for code structure, and supporting fellow beginners.
+**Currently exploring:** Python automation, Kali/BlackArch, AI/ML, Quantum Computing
 
 ---
 
