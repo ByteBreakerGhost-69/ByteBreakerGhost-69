@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/DeFi%20Engineer-9400D3?style=for-the-badge&logo=defi&logoColor=white" alt="DeFi" />
   
   <h1>👾 ByteBreakerGhost-69</h1>
-  <h3><strong>Solidity Engineer | Web3 Security Researcher | DeFi Architect</strong></h3>
+  <h3><strong>AI Engineering | Web3 Security Researcher | DeFi Architect</strong></h3>
   
   <p><em>Crafting secure decentralized systems from Kediri, Indonesia</em></p>
 
