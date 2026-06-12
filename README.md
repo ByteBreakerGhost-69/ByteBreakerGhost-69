@@ -21,7 +21,7 @@
 
 ---
 
-### 🜁 About Me
+## 🜁 About Me
 
 **ByteBreakerGhost-69** (Maulana Yasyfa'u Al Azhiim) is a passionate **Blockchain & Smart Contract Developer** with a strong focus on **Web3 Security** and **DeFi** protocols. Viewing GitHub as a digital journal for growth and experimentation, I embrace a beginner's mindset — unafraid to start from zero with daily learning and documentation.
 
@@ -33,7 +33,6 @@ My approach to cybersecurity is ethical and offensive-minded: thinking like an a
 
 ---
 
-### 🛠️ Tech Stack
 
 ## 🛠️ Core Tech Stacks
 
@@ -68,7 +67,7 @@ My approach to cybersecurity is ethical and offensive-minded: thinking like an a
 ![FlowiseAI](https://img.shields.io/badge/FlowiseAI-5C3EE8?style=for-the-badge&logo=flowiseai&logoColor=white)
 ---
 
-### 🏅 Coding Profiles
+## 🏅 Coding Profiles
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
@@ -77,7 +76,7 @@ My approach to cybersecurity is ethical and offensive-minded: thinking like an a
 
 ---
 
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ByteBreakerGhost-69&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B00FF&text_color=FFFFFF&icon_color=9400D3)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteBreakerGhost-69&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B00FF&text_color=FFFFFF)
@@ -85,19 +84,19 @@ My approach to cybersecurity is ethical and offensive-minded: thinking like an a
 
 ---
 
-### 🏅 GitHub Trophies
+## 🏅 GitHub Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=ByteBreakerGhost-69&theme=radical&column=4&margin-w=15&margin-h=15&no-bg=true)
 
 ---
 
-### 📈 Contribution Activity
+## 📈 Contribution Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ByteBreakerGhost-69&theme=radical&bg_color=0D1117&color=8B00FF&line=9400D3&point=FFFFFF&hide_border=true)
 
 ---
 
-### 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 ![Snake Animation](https://github.com/ByteBreakerGhost-69/ByteBreakerGhost-69/blob/output/github-contribution-grid-snake.svg)
 ---
