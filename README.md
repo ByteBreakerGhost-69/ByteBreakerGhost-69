@@ -1,5 +1,3 @@
-![ByteBreakerGhost](img/github-header-image.png)
-
 <div align="center">
   <img src="https://img.shields.io/badge/Blockchain%20%26%20Smart%20Contracts-8B00FF?style=for-the-badge&logo=solidity&logoColor=white" alt="Blockchain" />
   <img src="https://img.shields.io/badge/Web3%20Security-4B0082?style=for-the-badge&logo=ethereum&logoColor=white" alt="Web3" />
@@ -32,7 +30,6 @@ My approach to cybersecurity is ethical and offensive-minded: thinking like an a
 
 **Open to** small creative collaborations, open-source contributions, mentorship for code structure, and supporting fellow beginners.
 
-> "Coding is not only about logic, but also a medium for emotional expression."  
 > "Success doesn't belong to the smartest people, but to those who never give up."
 
 ---
@@ -59,17 +56,6 @@ My approach to cybersecurity is ethical and offensive-minded: thinking like an a
 
 #### AI & Emerging
 ![FlowiseAI](https://img.shields.io/badge/FlowiseAI-8B00FF?style=flat-square&logo=ai&logoColor=white)
-
----
-
-### 🧠 AI / ML Expertise
-
-| Domain              | Proficiency     | Details |
-|---------------------|-----------------|---------|
-| Prompt Engineering  | Advanced        | Multilingual inputs leveraging Social Sciences + Olympiad analytical background |
-| LLM Workflows       | Intermediate    | FlowiseAI visual chains, Groq models, Buffer Memory, custom prompts |
-| Automation & Visualization | Intermediate | Python scripting for creative tools and data insights |
-| Future Exploration  | Beginner        | Machine Learning fundamentals and Quantum Computing concepts |
 
 ---
 
@@ -137,23 +123,7 @@ Components: Chat models, memory buffers, custom prompt chains.
 
 ---
 
-### 🏆 Achievements
 
-| Recognition                          | Details |
-|--------------------------------------|---------|
-| National Olympiad Silver Medals     | Economics, Mathematics, Accounting |
-| 69 Private Contributions (June 2026)| Consistent daily documentation and experimentation |
-| Multi-Language Proficiency          | Mastery of 6 foreign languages supporting global Web3 collaboration |
-
----
-
-### 📜 Certifications & Training
-
-**Social Sciences** — SMA Islam Plus Hidayatut Thullab (2022–2025)
-
-*Actively pursuing blockchain-specific certifications (OpenZeppelin, ConsenSys, etc.)*
-
----
 
 ### 🏅 Coding Profiles
 
@@ -190,24 +160,3 @@ Components: Chat models, memory buffers, custom prompt chains.
 
 ---
 
-### 🎯 Current Focus
-
-```yaml
-learning:
-  - Advanced Solidity patterns & auditing
-  - Rust for blockchain development
-  - Web3 security best practices
-
-building:
-  - Secure DeFi primitives
-  - Community DAOs
-  - Educational Web3 tools
-
-exploring:
-  - AI integration with smart contracts
-  - Quantum-resistant cryptography
-
-open_to:
-  - Mentorship
-  - Open source collaborations
-  - Bug bounty programs
