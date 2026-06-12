@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://img.shields.io/badge/Blockchain%20%26%20Smart%20Contracts-8B00FF?style=for-the-badge&logo=solidity&logoColor=white" alt="Blockchain" />
   <img src="https://img.shields.io/badge/Web3%20Security-4B0082?style=for-the-badge&logo=ethereum&logoColor=white" alt="Web3" />
@@ -99,6 +100,4 @@ My approach to cybersecurity is ethical and offensive-minded: thinking like an a
 ### 🐍 Contribution Snake
 
 ![Snake Animation](https://github.com/ByteBreakerGhost-69/ByteBreakerGhost-69/blob/output/github-contribution-grid-snake.svg)
-
 ---
-
