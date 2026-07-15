@@ -29,7 +29,7 @@
 - 📚 Daily learner, building in public
 - 🤝 Open to collaborations & mentorship
 
-**Currently exploring:** Python automation, Kali/BlackArch, AI/ML, Quantum Computing
+**Currently exploring:** Python automation, Kali linux/ubuntu, AI/ML, Quantum Computing
 
 ---
 
